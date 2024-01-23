@@ -1,2 +1,12 @@
 # APPLE_CLONE
 Apple Vision Pro
+AUTHOR - ANKIT KUMAR BARIK
+//
+ORIGINAL SITE "APPLE VISION PRO" - https://www.apple.com/apple-vision-pro/
+
+//FRONTEND SITE__
+
+LANGUAGES USED :-
+* HTML
+* CSS
+* JAVASCRIPT
